@@ -1,0 +1,17 @@
+q1,1,B,q1
+q1,B,R,q2
+q2,1,R,q2
+q2,B,R,q3
+q3,1,R,q3
+q3,B,L,q4
+q4,1,B,q4
+q4,B,L,q5
+q5,1,L,q6
+q6,1,L,q6
+q6,B,L,q7
+q7,1,L,q8
+q7,B,R,q9
+q8,1,L,q8
+q8,B,R,q1
+q9,B,R,q10
+q10,1,B,q9
